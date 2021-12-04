@@ -1,6 +1,6 @@
 # pabloescobar04
 [![MasterHead](https://wallpapercave.com/wp/wp2757844.gif)](https://khushboogoel01.github.io)
-[![MasterHead]()](https://khushboogoel01.github.io)
+[![MasterHead](https://wallpapercave.com/wp/wp2757844.gif)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Dheeraj Mehta</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
