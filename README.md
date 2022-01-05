@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Dheeraj 👋
-[![Linkedin Badge](https://img.shields.io/badge/-dheeraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-mehta-a8b15816b/)](https://www.linkedin.com/in/dheeraj-mehta-a8b15816b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dheeraj-mehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-mehta-a8b15816b/)](https://www.linkedin.com/in/dheeraj-mehta-a8b15816b/)
 [![Gmail Badge](https://img.shields.io/badge/-mehtadk0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehtadk0@gmail.com)](mailto:mehtadk0@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
@@ -20,9 +20,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
-    
-🛠**Tech Stack**
-
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
