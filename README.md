@@ -1,4 +1,4 @@
-<img align="right" src="image.webp" alt="Coder GIF" width="420" height="330">
+<img align="right" src="image.webp" alt="Coder GIF" width="420" height="430">
 
 
 
