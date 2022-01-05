@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Dheeraj 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/dheeraj-mehta-a8b15816b/)](www.linkedin.com/in/dheeraj-mehta-a8b15816b)
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](www.linkedin.com/in/dheeraj-mehta-a8b15816b)
 [![Gmail Badge](https://img.shields.io/badge/-mehtadk0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehtadk0@gmail.com)](mailto:mehtadk0@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
